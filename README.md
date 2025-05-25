@@ -143,6 +143,22 @@ Visit `http://localhost:3000` to use the app.
 
 Include screenshots of your UI here for better clarity.
 
+![image alt](https://github.com/moniieekaa/blogger_website_using_MERN/blob/4b0bb59f0c6b5803c62dd9c3f6136e149bea8839/Screenshot%202025-05-25%20164221.png)
+
+
+![image alt](https://github.com/moniieekaa/blogger_website_using_MERN/blob/4b0bb59f0c6b5803c62dd9c3f6136e149bea8839/Screenshot%202025-05-25%20164334.png)
+
+![image alt](https://github.com/moniieekaa/blogger_website_using_MERN/blob/4b0bb59f0c6b5803c62dd9c3f6136e149bea8839/Screenshot%202025-05-25%20164403.png)
+
+![image alt](https://github.com/moniieekaa/blogger_website_using_MERN/blob/4b0bb59f0c6b5803c62dd9c3f6136e149bea8839/Screenshot%202025-05-25%20164415.png)
+
+![image alt](https://github.com/moniieekaa/blogger_website_using_MERN/blob/4b0bb59f0c6b5803c62dd9c3f6136e149bea8839/Screenshot%202025-05-25%20164440.png)
+
+
+
+
+
+
 ---
 
 ## 🤝 Contribution
@@ -159,7 +175,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## ✨ Author
 
-**\[Your Name]**
+**\[Mounika.K]**
 GitHub: [@moniieekaa](https://github.com/moniieekaa)
 
 ```
